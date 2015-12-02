@@ -1,0 +1,1 @@
+There are many tutorials describing how to use jetty in combination with CDI, JPA,  Jax-RS and maven. But there is no example how to use is in combination with jetty embedded. In this tutorial I'll show you how to deal with it.
